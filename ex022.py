@@ -1,0 +1,7 @@
+n = str(input('Informe seu nome completo:'))
+mai = n.upper()
+min = n.lower()
+qtd = n.replace(' ','')
+print(mai)
+print(min)
+print(len(qtd))
